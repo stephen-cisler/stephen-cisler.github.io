@@ -31,11 +31,31 @@ footer {
 .btn-default:hover {
     color: #FFF;
     background-color: #CD6C2B;
+    border-color: #DDD;
 }
 
 .btn-default {
     color: #FFF;
     background-color: #FA8334;
+    border-color: #DDD;
+}
+
+.btn-info:hover {
+    color: #CD6C2B;
+    background-color: #CCC;
+    border-color: #DDD;
+}
+
+.btn-info {
+    color: #FA8334;
+    background-color: #EEE;
+    border-color: #DDD;
+}
+
+.btn-info:active, .btn-info:visited {
+    color: #CD6C2B;
+    background-color: #CCC;
+    border-color: #FFF;
 }
 
 .projects-header {
