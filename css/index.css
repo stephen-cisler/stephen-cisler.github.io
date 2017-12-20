@@ -1,3 +1,12 @@
+body {
+    background-color: #5fbdd9;
+    background-image: url("../imgs/escheresque-dark.png");
+}
+
 .mid {
     min-height: 100vh;
+}
+
+.card .card-reveal {
+    background-color: lightgray;
 }
