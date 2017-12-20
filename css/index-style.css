@@ -1,0 +1,78 @@
+body {
+    padding-top: 3em;
+    background-color: #5fbdd9;
+    background-image: url("../imgs/escheresque-dark.png");
+}
+
+h1, h2 {
+    font-family: 'Permanent Marker', Helvetica, sans-serif;
+}
+
+p, h3, h4, h5, h6 {
+    font-family: 'Roboto', Helvetica, sans-serif;
+}
+
+.thumbnail h3 {
+    font-style: italic;
+}
+
+.spacer {
+    margin-top: 2em;
+}
+
+.feature {
+    margin-bottom: 1em;
+}
+
+footer {
+    margin: 2em;
+}
+
+.btn-default:hover {
+    color: #FFF;
+    background-color: #CD6C2B;
+    border-color: #DDD;
+}
+
+.btn-default {
+    color: #FFF;
+    background-color: #FA8334;
+    border-color: #DDD;
+}
+
+.btn-info:hover {
+    color: #CD6C2B;
+    background-color: #CCC;
+    border-color: #DDD;
+}
+
+.btn-info {
+    color: #FA8334;
+    background-color: #EEE;
+    border-color: #DDD;
+}
+
+.btn-info:active, .btn-info:visited {
+    color: #CD6C2B;
+    background-color: #CCC;
+    border-color: #FFF;
+}
+
+.projects-header {
+    margin-bottom: 50px;
+    background-color: #DDDDDD;
+    padding: .4em .6em;
+    border-radius: 4px;
+}
+
+.projects-header-col {
+    margin-bottom: 2em;
+}
+
+.thumbnail, .jumbotron {
+    background-color: #DDDDDD;
+}
+
+.navbar-inverse .navbar-brand, .navbar-inverse .navbar-nav > li > a {
+    color: #DDDDDD;
+}
